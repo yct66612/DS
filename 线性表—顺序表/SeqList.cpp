@@ -26,7 +26,7 @@ int LocateElem(SeqList&L,int e)
 	{
 		if(e  == L.data[i])
 		{
-			return e;
+			return i+1;
 		}
 		else return -1;
 	}
