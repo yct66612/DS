@@ -1,5 +1,4 @@
 # DS 考研数据结构
-<img src="http://e0.ifengimg.com/12/2019/0601/A6224802EBCEA1D568D56A0F00B509D06FA3A6C7_size218_w960_h1396.jpeg" style="zoom: 33%;" />)
 
 ## 什么是数据结构与算法
 
